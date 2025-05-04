@@ -44,4 +44,5 @@ A classic **Brick Breaker** arcade game developed in **x86 Assembly Language**, 
 ## 🚀 Author
 
 [Arsal Temuri] – [GitHub Profile](https://github.com/your-Arsal-Temuri)
+[Maryam Farooq] – [GitHub Profile](https://github.com/Maryam-amjad4)
 
